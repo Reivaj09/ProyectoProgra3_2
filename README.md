@@ -1,2 +1,4 @@
-# ProyectoProgra3_-2
-Proyecto Progra3 numero 2
+# ProyectoProgra3_2
+Proyecto Progra3 #2
+Javier Rivera Mora
+Esteban Sanchez Sanchez
