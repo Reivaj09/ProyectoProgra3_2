@@ -12,6 +12,8 @@ package sistema;
 public class Application {
 
     public static void main(String[] args) {
-        System.out.println("Hola bebé");
+        System.out.println("Hola bebe");
+        int x = 0;
+        System.out.println(x);
     }
 }
